@@ -1,0 +1,10 @@
+.content-wrapper{
+    padding-top: 20px;
+    background-image: url("../img/bg.jpg");
+}
+.profile-title{
+    font-size:1.2em;
+}
+#profile-box-body{
+    padding: 20px;
+}
