@@ -1,0 +1,23 @@
+body {
+    min-height: 2000px;
+    padding-top: 70px;
+}
+
+.navbar {
+    font-family: "Comic Sans MS";
+    font-size: 1.2em;
+    color: black;
+}
+.navbar-brand{
+    font-size: 1.8em;
+    font-weight: 600;
+}
+
+
+#navbar-ul{
+    padding-left: 50px;
+}
+
+#en-name{
+    font-size: 0.5em;
+}
