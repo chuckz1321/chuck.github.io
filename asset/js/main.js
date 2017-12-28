@@ -9,6 +9,7 @@ function loadImg(){
     $('.me-img').attr('src',path)
 }
 
+
 function changePage(i){
     if( i == 1 ){
         getLocalResource('asset/subpage/profile.html',function (res) {
